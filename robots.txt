@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://padmanabhaswamy.github.io/sitemap.xml
+Sitemap: https://greenleaf-guides.github.io/sitemap.xml
