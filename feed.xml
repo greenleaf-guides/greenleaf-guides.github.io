@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GreenLeaf Guides - Botanical Field Research Journal</title>
+    <link>https://greenleaf-guides.github.io/</link>
+    <description>Open-access horticultural guide and field data syndicated in partnership with The Blog Daily.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2026 10:30:00 GMT</lastBuildDate>
+    <atom:link href="https://greenleaf-guides.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tomato Companion Plants: What to Grow (and Avoid) Nearby</title>
+      <link>https://theblogdaily.com/tomato-companion-plants/</link>
+      <guid>https://theblogdaily.com/tomato-companion-plants/</guid>
+      <description>Scientific polyculture guide on tomato companions including basil, marigolds, garlic and alliums.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raised Bed Soil: The Best Mix, Ratios and DIY Recipes</title>
+      <link>https://theblogdaily.com/raised-bed-soil/</link>
+      <guid>https://theblogdaily.com/raised-bed-soil/</guid>
+      <description>Volumetric 60:30:10 ratio guide for screened topsoil, bio-active compost, and drainage perlite.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tomato Plant Leaves Turning Yellow: A Symptom-Based Troubleshooting Guide</title>
+      <link>https://theblogdaily.com/tomato-leaves-turning-yellow/</link>
+      <guid>https://theblogdaily.com/tomato-leaves-turning-yellow/</guid>
+      <description>Diagnostic tree for lower leaf senescence, early blight concentric rings, and nitrogen deficiency.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>When to Plant Tomatoes in My Zone: A USDA Zone-by-Zone Planting Guide</title>
+      <link>https://theblogdaily.com/when-to-plant-tomatoes-by-zone/</link>
+      <guid>https://theblogdaily.com/when-to-plant-tomatoes-by-zone/</guid>
+      <description>Frost date timetables and indoor seed starting schedules from USDA Zone 3 to Zone 10.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cucumber Leaves Turning Yellow: A Symptom-Based Fix Guide</title>
+      <link>https://theblogdaily.com/cucumber-leaves-turning-yellow/</link>
+      <guid>https://theblogdaily.com/cucumber-leaves-turning-yellow/</guid>
+      <description>Treating interveinal chlorosis, magnesium lockout, and downy/powdery mildew on cucurbits.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Grow Vegetables in Containers: A Beginner's Guide</title>
+      <link>https://theblogdaily.com/container-vegetable-gardening/</link>
+      <guid>https://theblogdaily.com/container-vegetable-gardening/</guid>
+      <description>Container volume sizing, potting mix aeration, and liquid organic feeding schedules.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Get Rid of Aphids Naturally</title>
+      <link>https://theblogdaily.com/how-to-get-rid-of-aphids-naturally/</link>
+      <guid>https://theblogdaily.com/how-to-get-rid-of-aphids-naturally/</guid>
+      <description>Application of cold-pressed neem oil, potassium salts of fatty acids, and hydraulic spray removal.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Best Vegetables for Raised Beds: 7 Crops That Thrive</title>
+      <link>https://theblogdaily.com/best-vegetables-for-raised-beds/</link>
+      <guid>https://theblogdaily.com/best-vegetables-for-raised-beds/</guid>
+      <description>Analysis of intensive vertical climbers, root crops, and cut-and-come-again greens.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pepper Plant Leaves Turning Yellow: Causes and Fixes</title>
+      <link>https://theblogdaily.com/pepper-plant-yellow-leaves/</link>
+      <guid>https://theblogdaily.com/pepper-plant-yellow-leaves/</guid>
+      <description>Resolving root hypoxia from water saturation and cold temperature foliar shock on peppers.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fall Garden Care: The Complete End-of-Season Checklist</title>
+      <link>https://theblogdaily.com/fall-vegetable-garden-checklist/</link>
+      <guid>https://theblogdaily.com/fall-vegetable-garden-checklist/</guid>
+      <description>Clearing diseased debris, sowing cover crops, and winter garlic planting protocols.</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
